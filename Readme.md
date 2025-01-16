@@ -4,6 +4,7 @@ A recreation of the Playstation 2 (PS2) Trance Vibrator for the game Rez that co
 
 Implemented using esp-idf for the Waveshare ESP32-S3-Zero:
 https://www.waveshare.com/esp32-s3-zero.htm
+
 The code makes use of the onboard LED for showing changes and bluetooth pairing status.
 
 The implementation currently supports the following amorelie devices:
