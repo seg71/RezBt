@@ -29,3 +29,5 @@ The implementation currently supports the following amorelie devices:
 * 0x4D07 Amorelie Joy Salsa
 
 ![grafik](https://github.com/user-attachments/assets/5004fa70-69af-4b4b-9b45-9fe71b7b7a72)
+
+Based off the ground work of https://github.com/retromaniak/ESPREZ
