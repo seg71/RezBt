@@ -16,6 +16,8 @@ Additionally the boot button is used to support the following functions:
 * Press once to toggle the game mode:
   * Direct: Will keep the last received vibration strength (like the original device)
   * Fade: Will ignore any "off" signal from the game and instead fade out the current vibration level
+ 
+The STL folder contains a 3d printable case for the device that exposes the LED and allows pressing the boot button.
 
 The implementation currently supports the following amorelie devices:
 * 0x4D02 Amorelie Joy Move
