@@ -1,0 +1,9 @@
+## IDF Component Manager Manifest File
+dependencies:
+    ## Required IDF version
+  idf:
+    version: '>=4.1.0'
+  espressif/led_strip: ^3.0.0
+  espressif/tinyusb: ^0.17.0~2
+  espressif/esp_tinyusb: ^1.5.0
+  espressif/button: ^3.5.0
